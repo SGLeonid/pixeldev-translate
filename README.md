@@ -8,3 +8,11 @@ Google Translate API используется для перевода текст
 1) Перевод через запрос Rest API
 2) Список ключей языков
 3) История запросов перевода (Текст: Язык)
+
+$
+\begin{cases}
+    f(x) = \displaystyle\sum^m_{i=1}\displaystyle\sum^n_{j=1} P_{ij} \cdot x_{ij} \to \max \\
+    \displaystyle\sum^m_{i=1} x_{ij} = 1\\
+    \displaystyle\sum^n_{j=1} x_{ij} = 1\\
+\end{cases}
+$
